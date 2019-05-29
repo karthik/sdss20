@@ -1,7 +1,7 @@
 # Compendium title
 
 <!-- badges: start -->
-[![Launch binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/karthik/binder-sdss/master)
+[![Launch binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/karthik/sdss20/master)
 <!-- badges: end -->
 
 The goal of Compendium title is to ...
